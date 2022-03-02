@@ -1,0 +1,18 @@
+.selected-user{
+    background: lightblue;
+    border-radius: 5px;
+}
+.unread small{
+
+
+
+    
+    margin-left: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    padding: 2px 4px;
+
+
+
+}
